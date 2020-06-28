@@ -1,2 +1,2 @@
 # hlsOMP
-Hight level syntesis of Orthogonal Matchin Pursuit
+Hight level syntesis of Orthogonal Matching Pursuit algorithm
